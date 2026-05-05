@@ -47,5 +47,5 @@ A collection of networking lab assignments completed using Cisco Packet Tracer a
 ---
 
 ## Contact
-📬 sullivanquia1@montclair.edu  
+📬 angeleesq3@gmail.com  
 🐙 [github.com/asq2000](https://github.com/asq2000)
